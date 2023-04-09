@@ -3,7 +3,7 @@
 This program is a CLI apllication that manages List of students.
 It allows the user to display,add,edit,delete,filter,search the list of students by using command line interface.
 
-Now run the command " node index.js command ",where index.js is the file name and where command is one of the  available command, thay are:
+Now run the command " node index.js command ",where index.js is the file name and where 'command' is one of the  available command, thay are:
 
 * list : Display the list of students.
 * add  : Allows you  to add the new student to the list.
@@ -24,8 +24,8 @@ Now run the command " node index.js command ",where index.js is the file name an
 Here some of the insructions:
 
 * The program provided is a Command-Line Interface(CLI) application built in a Node js and several extra modules and packages.
-* Run the command *npm install readline console.table chalk yargs*  to install        required modules.
-* Run the command *node index.js command* to execute the program ,here 'index.js' is  your file name and where command is one of the availble commands:'display','add','edit','delete','filter','search'.
+* Run the command *npm install readline console.table chalk yargs*  to install required modules.
+* Run the command *node index.js command* to execute the program ,here 'index.js' is  your file name and where 'command' is one of the availble commands:'display','add','edit','delete','filter','search'.
 * Each command will prompt you to give required information.
  
  # Implemented Some Other Features
