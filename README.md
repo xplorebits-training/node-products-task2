@@ -3,7 +3,7 @@
 This program is a CLI apllication that manages List of students.
 It allows the user to display,add,edit,delete,filter,search the list of students by using command line interface.
 
-Now run the command " node index.js command ",where index.js is the file name and where 'command' is one of the  available command, thay are:
+Now run the command " node index.js help", it will dsiplay all the 'commands' that were used in the code, then you can select the command that  need to be display ,then run 'index.js command' where 'index.js' is the file name and where 'command' is one of the  available command, thay are:
 
 * list : Display the list of students.
 * add  : Allows you  to add the new student to the list.
